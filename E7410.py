@@ -11,6 +11,8 @@ while True:
         print("Exiting..")
         break
 
+        # test123
+
     # Aufteilen der Eingabe in Blöcke
     blocks = input_string.split('-')
 
